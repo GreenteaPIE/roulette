@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "box2d-wasm": "^7.0.0"
-  }
+  },
+  "homepage": "/blog"
 }
